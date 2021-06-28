@@ -1,0 +1,11 @@
+#gmail-hack
+• apt-get update -y
+• apt-get upgrade -y
+• pkg install python -y
+• pkg install python2 -y
+• pkg install git -y
+• git clone 
+https://github.com/BAXCYBERY/gmail-hack
+• cd gmail-hack
+• python3 gmail-hack
+
